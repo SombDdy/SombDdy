@@ -3,7 +3,7 @@
 ### Frontend Developer
 
 I build modern and responsive web applications using React and TypeScript.  
-Currently working on **Planora** — a task and project management application.
+Currently working on **Lunvexa** — a task and project management application.
 
 ## 🛠️ Languages & Tools
 
@@ -13,7 +13,7 @@ Currently working on **Planora** — a task and project management application.
 
 ## 🚀 Featured Project
 
-### Planora
+### Lunvexa
 
 Task and project management application built with React and TypeScript.
 
