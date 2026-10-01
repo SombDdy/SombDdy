@@ -1,8 +1,10 @@
 # Hi, I'm Dmytro 👋
 
-### Frontend Developer
+### Software Developer | React & TypeScript
 
-I build modern and responsive web applications using React and TypeScript.  
+I build modern web applications with a focus on React and TypeScript.
+
+I work primarily on frontend development, while also building APIs, backend logic, and working with databases.  
 Currently working on **[Lunvexa](https://github.com/SombDdy/Lunvexa)** — a task and project management application.
 
 ## 🛠️ Languages & Tools
