@@ -3,7 +3,7 @@
 ### Frontend Developer
 
 I build modern and responsive web applications using React and TypeScript.  
-Currently working on **Lunvexa** — a task and project management application.
+Currently working on **[Lunvexa](https://github.com/SombDdy/Lunvexa)** — a task and project management application.
 
 ## 🛠️ Languages & Tools
 
@@ -15,10 +15,12 @@ Currently working on **Lunvexa** — a task and project management application.
 
 ![Dmytro's GitHub stats](https://github-readme-stats.vercel.app/api?username=SombDdy&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SombDdy&layout=compact&theme=radical)
+
 
 ## 🚀 Featured Project
 
-### Lunvexa
+### [Lunvexa](https://github.com/SombDdy/Lunvexa)
 
 Task and project management application built with React and TypeScript.
 
