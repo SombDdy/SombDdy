@@ -11,6 +11,11 @@ Currently working on **Lunvexa** — a task and project management application.
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,vite,git,github,vscode,postman" />
 </p>
 
+## 📊 GitHub Stats
+
+![Dmytro's GitHub stats](https://github-readme-stats.vercel.app/api?username=SombDdy&show_icons=true&theme=radical)
+
+
 ## 🚀 Featured Project
 
 ### Lunvexa
