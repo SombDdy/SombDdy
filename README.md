@@ -8,7 +8,7 @@ Currently working on **Lunvexa** — a task and project management application.
 ## 🛠️ Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,vite,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,vite,git,github,vscode,postman" />
 </p>
 
 ## 🚀 Featured Project
